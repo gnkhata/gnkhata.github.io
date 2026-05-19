@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gibson Nkhata's Professional Portfolio"
+title: "Gibson Nkhata's Professional Site"
 author_profile: true
 redirect_from: 
   - /about/
