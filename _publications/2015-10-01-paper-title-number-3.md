@@ -7,6 +7,6 @@ excerpt: #'This paper is about the number 3. The number 4 is left for future wor
 date: 2025-12-30
 venue: ' International Journal On Advances in Intelligent Systems'
 slidesurl: #'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://www.thinkmind.org/library/IntSys/IntSys_v18_n34_2025/intsys_v18_n34_2025_14.html'
 citation: '<b>Gibson Nkhata</b>, Gauch Susan. (2025). &quot;Leveraging Content and Structural Dynamics of Discourse for Rumor Verification.&quot; <i> International Journal On Advances in Intelligent Systems, volume 18, numbers 3 and 4</i>.'
 ---
