@@ -2,7 +2,7 @@
 title: "Sarcasm Detection as a Catalyst: Improving Stance Detection with Cross-Target Capabilities"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-12-30-Sarcasm Detection as a Catalyst: Improving Stance Detection with Cross-Target Capabilities
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-12-30
 venue: 'International Journal On Advances in Intelligent Systems'
