@@ -10,4 +10,4 @@ paperurl: 'https://arxiv.org/abs/2605.18769'
 citation: '<b>Gibson Nkhata</b>,  Uttamasha Anjally Oyshi, Quan Mai, and Susan Gauch.(2026). &quot;ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation.&quot; <i>The 64th Annual Meeting of the Association for Computational Linguistics </i>.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+#Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
