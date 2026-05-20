@@ -10,5 +10,4 @@ paperurl: 'https://www.thinkmind.org/library/eKNOW/eKNOW_2025/eknow_2025_1_40_60
 citation: '<b>Gibson Nkhata</b> and Susan Gauch.(2025). &quot;Stance-Conditioned Modeling for Rumor Verification.&quot; <i>The Seventeenth International Conference on Information, Process, and Knowledge Management</i>.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
 
