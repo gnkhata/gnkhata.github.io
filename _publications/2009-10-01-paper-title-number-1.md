@@ -11,4 +11,3 @@ paperurl: 'https://www.thinkmind.org/library/SysMea/SysMea_v16_n34_2023/sysmea_v
 bibtexurl: #'https://academicpages.github.io/files/bibtex1.bib'
 citation: '<b>Gibson Nkhata</b>, Susan Gauch, Usman Anjum, and Justin Zhan. (2023). &quot;Fine-tuning BERT with Bidirectional LSTM for Fine-grained Movie Reviews Sentiment Analysis.&quot; <i>International Journal On Advances in Systems and Measurements, volume 16, numbers 3 and 4 </i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
