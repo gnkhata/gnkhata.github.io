@@ -26,11 +26,11 @@ author:
   avatar           : "Profpic.JPG"
   name             : "Gibson Nkhata"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Data Science Lab (JBHT-445), 227 N Harmon Ave, Fayetteville, AR 72701"
   employer         : "University of Arkansas"
   uri              : "https://www.uark.edu/"
-  email            : "nkhatagibsonb@gmail.com | gnkhata@uark.edu" 
+  email            : "gnkhata@uark.edu" 
 
   # Academic websites
   academia         : # URL
