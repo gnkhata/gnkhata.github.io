@@ -23,22 +23,22 @@ repository               : "gnkhata/gnkhata.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profpic.JPEG"
+  avatar           : "Profpic.JPG"
   name             : "Gibson Nkhata"
   pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "University of Arkansas"
+  uri              : "https://www.uark.edu/"
+  email            : "nkhatagibsonb@gmail.com | gnkhata@uark.edu" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/user/"
+  googlescholar    : "https://scholar.google.com/citations?user=agP8swoAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-8791-307X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
