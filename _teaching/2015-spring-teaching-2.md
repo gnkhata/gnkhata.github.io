@@ -11,11 +11,11 @@ location: "Mzuzu, Malawi"
 Taught undergrad courses, including Data Structures, Algorithms, and Practical Linux/Unix, for one semester.
 Planned lessons and assignments; led discussion sessions. Graded papers and examinations; supervised students’ end-of-program projects.  Served as a personal tutor to three students; mentored students in professional development.
 
-Heading 1
+#Heading 1
 ======
 
-Heading 2
+#Heading 2
 ======
 
-Heading 3
+#Heading 3
 ======
