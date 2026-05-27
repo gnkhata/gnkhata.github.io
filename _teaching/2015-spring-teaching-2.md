@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Staff Associate"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Daeyang College of ICT, ICT Department"
+date: 2018-08-01
+location: "Mzuzu, Malawi"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught undergrad courses including Data Structures, Algorithms, and Practical Linux/Unix for one semester.
+Planned lessons and assignments; led discussion sessions. Graded papers and examinations; supervised students’ end-of-program projects.  Served as a personal tutor to three students; mentored students in professional development.
 
 Heading 1
 ======
