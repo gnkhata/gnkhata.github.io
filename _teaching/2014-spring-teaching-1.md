@@ -8,8 +8,8 @@ date: 2018-11-01
 location: "Mzuzu, Malawi"
 ---
 
-Taught undergrad courses including Databases, E-Commerce, End-User Computing, Computer Communication
-Technology, and ICT for Tourism for 2 years; Planned lessons and assignments; Led discussion sessions; Graded assignments and examinations.
+Taught undergrad courses, including Databases, E-Commerce, End-User Computing, Computer Communication
+Technology, and ICT for Tourism, for 2 years; Planned lessons and assignments; Led discussion sessions; Graded assignments and examinations.
 
 Heading 1
 ======
