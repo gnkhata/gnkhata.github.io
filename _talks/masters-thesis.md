@@ -1,5 +1,5 @@
 ---
-title: "Masters thesis defense"
+title: "Masters Thesis Defense"
 collection: talks
 type: "Thesis Defense"
 permalink: /talks/masters-thesis
