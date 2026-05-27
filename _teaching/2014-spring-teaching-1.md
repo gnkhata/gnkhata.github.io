@@ -11,11 +11,11 @@ location: "Mzuzu, Malawi"
 Taught undergrad courses, including Databases, E-Commerce, End-User Computing, Computer Communication
 Technology, and ICT for Tourism, for two years; Planned lessons and assignments; Led discussion sessions; Graded assignments and examinations.
 
-#Heading 1
+
 ======
 
-#Heading 2
+
 ======
 
-#Heading 3
+
 ======
