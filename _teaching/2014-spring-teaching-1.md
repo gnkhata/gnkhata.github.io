@@ -12,10 +12,3 @@ Taught undergrad courses, including Databases, E-Commerce, End-User Computing, C
 Technology, and ICT for Tourism, for two years; Planned lessons and assignments; Led discussion sessions; Graded assignments and examinations.
 
 
-======
-
-
-======
-
-
-======
