@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Resume: [Click here to view my Resume](https://drive.google.com/drive/folders/1hjPWuKIlrnIcmEFMsfcRcqqLZ3i8tnvr)
 
