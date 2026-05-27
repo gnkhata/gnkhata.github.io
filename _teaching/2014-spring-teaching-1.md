@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Mzuzu University, Information and Communication Technology Department"
-date: 2018-01-01
+date: 2018-11-01
 location: "Mzuzu, Malawi"
 ---
 
