@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Adjunct Lecturer"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Mzuzu University, Information and Communication Technology Department"
+date: 2018-01-01
+location: "Mzuzu, Malawi"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught undergrad courses including Databases, E-Commerce, End-User Computing, Computer Communication
+Technology, and ICT for Tourism; Planned lessons and assignments; Led discussion sessions; Graded assignments and examinations.
 
 Heading 1
 ======
