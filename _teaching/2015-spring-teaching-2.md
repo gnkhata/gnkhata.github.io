@@ -1,7 +1,7 @@
 ---
 title: "Staff Associate"
 collection: teaching
-type: #"Undergraduate course"
+#type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Daeyang College of ICT, ICT Department"
 date: 2018-08-01
